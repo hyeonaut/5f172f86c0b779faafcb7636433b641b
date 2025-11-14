@@ -146,7 +146,6 @@
 
 		Last login: Wed Sep 13 03:59:54 2023 from 172.31.0.146
 		bobbyz@ip-172-31-153-108:~$ 
-
 	권한 상승
 		┌──(kali㉿kali)-[~/Desktop/vault]
 		└─$ wget https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh
@@ -2083,4 +2082,5 @@
 		bobbyz@ip-172-31-153-108:~$ sudo bash
 		root@ip-172-31-153-108:~# 
 취약점
+
 	
